@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fitness Manager</title>
     <link rel="shortcut icon" href="../IMAGE/Favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="../PHP/../CSS/globalstyle.css">
+    <link rel="stylesheet" href="globalstyle.css">
 </head>
 <body class="inicial">
     <!--INICIO DO HEADER-->

@@ -21,7 +21,7 @@ $consulta = $conexao->query("select * from tb_funcionarios");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../PHP/../IMAGE/Favicon.ico" type="image/x-icon">
     <title>Instrutores</title>
-    <link rel="stylesheet" href="../PHP/../CSS/globalstyle.css">
+    <link rel="stylesheet" href="globalstyle.css">
 </head>
 <body>
     <!--INICIO DO HEADER-->
